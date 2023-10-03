@@ -1,3 +1,14 @@
+/*
+Trabalho parte 4 Banco de Dados
+
+Alunos:
+MARCELO VENICIUS ALMEIDA LIMA
+RONICLAY RODRIGUES SANTOS JUNIOR
+
+
+*/
+
+
 const express = require('express');
 const cors = require('cors'); 
 const app = express();
